@@ -11,6 +11,7 @@ function App() {
     <div className="App">
       <Header title={siteTitle} />
       <main className="c-site-main" tabIndex="0">
+        <h1>fatemeh rahimi</h1>
       <Icon name="clear"/>
     
       </main>
@@ -20,3 +21,4 @@ function App() {
 }
 
 export default App;
+

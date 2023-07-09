@@ -8,7 +8,7 @@ const Footer = () => {
       <li>
         <div className="footerItem">
           <span>03:00</span>
-          <image className='img' src={crop} alt="temp" />
+          <image className='img' src='#' alt="temp" />
           <span>4°C</span>
         </div>
       </li>
